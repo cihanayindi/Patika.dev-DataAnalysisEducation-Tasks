@@ -3,7 +3,7 @@
 ## Ödev açıklaması: Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
 - Film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
-* ddee
+### sdsdsd
 - Film tablosunda bulunan tüm sütunlardaki verileri film uzunluğu (length) 60 dan büyük VE 75 ten küçük olma koşullarıyla sıralayınız.
 * sds
 - Film tablosunda bulunan tüm sütunlardaki verileri rental_rate 0.99 VE replacement_cost 12.99 VEYA 28.99 olma koşullarıyla sıralayınız.
